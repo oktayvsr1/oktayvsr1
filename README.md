@@ -1,4 +1,4 @@
-[![MasterHead](![image](https://github.com/user-attachments/assets/486de848-435f-4547-b57f-7c037e642758)
+[![MasterHead](https://github.com/user-attachments/assets/486de848-435f-4547-b57f-7c037e642758)
 )
 <h1 align="center">Hi 👋, I'm Oktay Avsar</h1>
 <h3 align="center">A passionate software developer from Turkey</h3>
